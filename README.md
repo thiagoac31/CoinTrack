@@ -23,3 +23,4 @@ Por isso, pode usar esse App Minhas Metas para poupar até atingir sua meta fina
 ### Dica para usar esse repositório
 Na branch `main` você irá encontrar somente as interfaces do App. Na branch `finished` você irá encontrar o código completo do App pronto com as funcionalidades implementadas.
 # CoinTrack
+# CoinTrack
